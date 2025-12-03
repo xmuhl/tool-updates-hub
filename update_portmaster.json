@@ -4,7 +4,7 @@
   "sha256": "DAFA407E7B7DBFFCA75E5F907633478C27EEE85A69F93AEF52E9AE96CA45F6A1",
   "releaseDate": "2025-12-02T09:31:22Z",
   "prerelease": false,
-  "releaseNotes": "# PortMaster v1.0.1.295 发布说明\n\n## 发布时间\n2025-12-02 17:30:00\n\n## 核心特性\n- 修复文件版本信息丢失问题，现在右键属性可正确查看版本号\n- 优化自动发布流程，支持UTC时间戳和无BOM UTF-8格式\n\n## 性能优化\n- 优化资源文件编译配置，确保版本信息正确嵌入\n\n## 问题修复\n- 修复 CommonTypes.h 与 RC 编译器兼容性问题\n- 解决发布脚本时间时区偏差问题\n\n## 兼容性说明\n- 兼容 Windows 10/11\n- 需要 VC++ 2015-2022 运行库\n\n## 注意事项\n- 建议通过自动更新获取最新版本\n\n---\n\n**文件说明**：\n- 本文件作为模板，复制并重命名为 `release_notes_v[版本号].md`\n- 请填写具体版本号和发布日期\n- 在对应分类下填写本次更新的具体内容\n- 保存为 UTF-8 with BOM 编码格式\n- 每个版本都需要独立的一个发布说明文件",
+  "releaseNotes": "# PortMaster v1.0.1.295 发布说明\n\n## 发布时间\n2025-12-02 17:30:00\n\n## 核心特性\n- 修复文件版本信息丢失问题，现在右键属性可正确查看版本号\n- 优化自动发布流程，支持UTC时间戳和无BOM UTF-8格式\n\n## 性能优化\n- 优化资源文件编译配置，确保版本信息正确嵌入\n\n## 问题修复\n- 修复 CommonTypes.h 与 RC 编译器兼容性问题\n- 解决发布脚本时间时区偏差问题\n\n## 兼容性说明\n- 兼容 Windows 7/10/11 (x86/x64)\n- 采用静态编译，无需安装 VC++ 运行库\n\n## 注意事项\n- 建议通过自动更新获取最新版本\n\n---\n\n**文件说明**：\n- 本文件作为模板，复制并重命名为 `release_notes_v[版本号].md`\n- 请填写具体版本号和发布日期\n- 在对应分类下填写本次更新的具体内容\n- 保存为 UTF-8 with BOM 编码格式\n- 每个版本都需要独立的一个发布说明文件",
   "mandatory": false,
   "downloadUrl": "https://github.com/xmuhl/tool-updates-hub/releases/download/v1.0.1.295/PortMaster_v1.0.1.295.zip",
   "versionString": "v1.0.1.295",
