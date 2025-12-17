@@ -1,10 +1,10 @@
 {
-  "versionString": "v1.0.0.1",
-  "version": "1.0.0.1",
-  "sizeBytes": 1347092,
-  "releaseDate": "2025-12-17T10:19:09Z",
-  "sha256": "7150FC9E6854A4205BA82CC2809220C8597A6B46E21E63F4D756CB85A9104D7F",
-  "releaseNotes": "# PrintDataParser v1.0.0.1 发布说明\n\n## 发布时间\n2025-12-17\n\n## 核心特性\n- 新增自动更新检测功能，启动时自动从 GitHub 检查新版本。\n- 优化 CMD 搜索功能，支持中文及高亮联动。\n\n## 问题修复\n- 修复搜索选项下拉框显示不全问题。\n- 修复 Cmd 模式无法搜索中文的问题。\n\n## 注意事项\n- 本版本为首个支持自动更新的版本。\n",
-  "downloadUrl": "https://github.com/xmuhl/tool-updates-hub/releases/download/v1.0.0.1/PrintDataParser_v1.0.0.1.zip",
-  "name": "PrintDataParser"
+  "versionString": "v1.0.0.2",
+  "name": "PrintDataParser",
+  "sizeBytes": 1364785,
+  "sha256": "1B3FBABCE20562274310B86A1F22DC496665DDA2A996C2130603F21609DA3D66",
+  "releaseNotes": "Automated release for version 1.0.0.2",
+  "version": "1.0.0.2",
+  "downloadUrl": "https://github.com/xmuhl/tool-updates-hub/releases/download/v1.0.0.2/PrintDataParser_v1.0.0.2.zip",
+  "releaseDate": "2025-12-17T11:05:54Z"
 }
