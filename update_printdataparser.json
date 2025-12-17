@@ -1,10 +1,10 @@
 {
-  "versionString": "v1.0.0.2",
+  "sha256": "D67FC3B9A81510F9DACD629B45E088064F1CD612AF546BB2E30A56F3C518D7B0",
+  "releaseDate": "2025-12-17T11:31:20Z",
+  "downloadUrl": "https://github.com/xmuhl/tool-updates-hub/releases/download/v1.0.0.3/PrintDataParser_v1.0.0.3.zip",
+  "versionString": "v1.0.0.3",
+  "version": "1.0.0.3",
   "name": "PrintDataParser",
-  "sizeBytes": 1364785,
-  "sha256": "1B3FBABCE20562274310B86A1F22DC496665DDA2A996C2130603F21609DA3D66",
-  "releaseNotes": "Automated release for version 1.0.0.2",
-  "version": "1.0.0.2",
-  "downloadUrl": "https://github.com/xmuhl/tool-updates-hub/releases/download/v1.0.0.2/PrintDataParser_v1.0.0.2.zip",
-  "releaseDate": "2025-12-17T11:05:54Z"
+  "sizeBytes": 1364783,
+  "releaseNotes": "Automated release for version 1.0.0.3"
 }
