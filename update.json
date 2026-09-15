@@ -1,0 +1,12 @@
+﻿{
+    "product":  "FrameCurator",
+    "build":  5,
+    "version":  "1.0.0.5",
+    "notes":  "首个自动升级版本:排版对齐/版本自增/JPEG直拷/报告筛选/目录历史/自动升级",
+    "asset":  "FrameCurator-1.0.0.5-win-x64.zip",
+    "sha256":  "b81494bfeb278dcf600bdb3d95fbfd975668a02636b038f0b0eca589a7fbce52",
+    "mirrors":  [
+                    "https://ghfast.top/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.0.0.5/FrameCurator-1.0.0.5-win-x64.zip",
+                    "https://mirror.ghproxy.com/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.0.0.5/FrameCurator-1.0.0.5-win-x64.zip"
+                ]
+}
