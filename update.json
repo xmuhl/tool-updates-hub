@@ -1,12 +1,13 @@
 {
-  "product": "Mp3AdCleaner",
-  "build": 5,
-  "version": "1.1.0",
-  "notes": "添加文件后自动扫描并自动去广告（高置信度+安全边界的文件后台自动完成）；移除冗余的「扫描」按钮；任务取消后不再自动接续；处理完成显示结果汇总与输出目录",
-  "asset": "Mp3AdCleaner-1.1.0-win-x64.exe",
-  "sha256": "957a8762b7efe50f7fcfe9bb9a3a3bcf859fd3317331acf87ca61dd2d4f44526",
+  "product": "FrameCurator",
+  "version": "1.0.0.18",
+  "build": 18,
+  "notes": "拼图跟随报告页勾选/评分区间筛选/Shift批量多选/项目菜单/相似图默认更少;修复便携版缺配置文件无法开始分析",
+  "asset": "FrameCurator-1.0.0.18-win-x64.zip",
+  "sha256": "cbfc97956088b1e0f9da19c9482478d85ae367ba3b581e856cc9bbbb9f8019de",
   "mirrors": [
-    "https://ghfast.top/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.1.0/Mp3AdCleaner-1.1.0-win-x64.exe",
-    "https://mirror.ghproxy.com/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.1.0/Mp3AdCleaner-1.1.0-win-x64.exe"
+    "https://cdn.jsdelivr.net/gh/xmuhl/tool-updates-hub@v1.0.0.18/FrameCurator-1.0.0.18-win-x64.zip",
+    "https://ghfast.top/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.0.0.18/FrameCurator-1.0.0.18-win-x64.zip",
+    "https://mirror.ghproxy.com/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.0.0.18/FrameCurator-1.0.0.18-win-x64.zip"
   ]
 }
