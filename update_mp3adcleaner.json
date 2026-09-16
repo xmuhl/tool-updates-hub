@@ -1,0 +1,12 @@
+{
+    "product":  "Mp3AdCleaner",
+    "build":  2,
+    "version":  "1.1.0",
+    "notes":  "v1.1.0：新增自动更新（检查/下载/sha256 校验/自替换重启，多源回退与跳过版本）；修复中文路径、无写权限便携数据目录、人工复核边界贯通等 20+ 项审核问题。",
+    "asset":  "Mp3AdCleaner-1.1.0-win-x64.exe",
+    "sha256":  "69a7f49fd8ab75d5336f360d961d7ef154c2baea568e2c2203d539025665b252",
+    "mirrors":  [
+                    "https://raw.githubusercontent.com/xmuhl/tool-updates-hub/v1.1.0/Mp3AdCleaner-1.1.0-win-x64.exe",
+                    "https://ghfast.top/https://raw.githubusercontent.com/xmuhl/tool-updates-hub/v1.1.0/Mp3AdCleaner-1.1.0-win-x64.exe"
+                ]
+}
