@@ -1,10 +1,10 @@
 {
   "product": "Mp3AdCleaner",
-  "build": 3,
+  "build": 4,
   "version": "1.1.0",
-  "notes": "v1.1.0：新增自动更新（检查/下载/sha256 校验/自替换重启，多源回退与跳过版本）；修复主界面排版、标题栏最小化/还原按钮与窗口缩放布局；修复中文路径、无写权限便携数据目录、人工复核边界贯通等 20+ 项审核问题。",
+  "notes": "v1.1.0 build4：新增结构性广告候选（无模板也能发现广告形态，确认后即可建模板）；修复关闭按钮无法退出；新增清空列表与增量扫描（新文件只扫描新增项）。",
   "asset": "Mp3AdCleaner-1.1.0-win-x64.exe",
-  "sha256": "91f584ca01d82e8e4efbaf0141a20c579f2d87d80310ff64ee4e4b75de8625ec",
+  "sha256": "a141802f0e4485c10fdb18451762524da1fc9906582c47d3434b638dfd23a679",
   "mirrors": [
     "https://ghfast.top/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.1.0/Mp3AdCleaner-1.1.0-win-x64.exe",
     "https://mirror.ghproxy.com/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.1.0/Mp3AdCleaner-1.1.0-win-x64.exe"
