@@ -1,12 +1,12 @@
 {
-  "product": "Mp3AdCleaner",
-  "build": 4,
-  "version": "1.1.0",
-  "notes": "v1.1.0 build4：新增结构性广告候选（无模板也能发现广告形态，确认后即可建模板）；修复关闭按钮无法退出；新增清空列表与增量扫描（新文件只扫描新增项）。",
-  "asset": "Mp3AdCleaner-1.1.0-win-x64.exe",
-  "sha256": "a141802f0e4485c10fdb18451762524da1fc9906582c47d3434b638dfd23a679",
-  "mirrors": [
-    "https://ghfast.top/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.1.0/Mp3AdCleaner-1.1.0-win-x64.exe",
-    "https://mirror.ghproxy.com/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.1.0/Mp3AdCleaner-1.1.0-win-x64.exe"
-  ]
+    "product":  "Mp3AdCleaner",
+    "build":  5,
+    "version":  "1.1.0",
+    "notes":  "添加文件后自动扫描并自动去广告（高置信度+安全边界的文件后台自动完成）；移除冗余的「扫描」按钮；任务取消后不再自动接续；处理完成显示结果汇总与输出目录",
+    "asset":  "Mp3AdCleaner-1.1.0-win-x64.exe",
+    "sha256":  "957a8762b7efe50f7fcfe9bb9a3a3bcf859fd3317331acf87ca61dd2d4f44526",
+    "mirrors":  [
+                    "https://ghfast.top/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.1.0/Mp3AdCleaner-1.1.0-win-x64.exe",
+                    "https://mirror.ghproxy.com/https://github.com/xmuhl/tool-updates-hub/releases/download/v1.1.0/Mp3AdCleaner-1.1.0-win-x64.exe"
+                ]
 }
